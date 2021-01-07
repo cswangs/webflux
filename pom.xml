@@ -19,6 +19,7 @@
         <module>product</module>
         <module>core</module>
         <module>stock</module>
+        <module>gateway</module>
     </modules>
 
 
